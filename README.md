@@ -1,8 +1,10 @@
 # steps to use:
-1. Clone repo
-2. cd google-play-api
-3. npm install
-4. npm start
+```
+git clone https://github.com/vijaykumar211/google-play-api.git
+cd google-play-api
+npm install
+npm start
+```
 
 # google-play-api
 
