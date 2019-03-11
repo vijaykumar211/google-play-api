@@ -1,3 +1,9 @@
+# steps to use:
+1. Clone repo
+2. cd google-play-api
+3. npm install
+4. npm start
+
 # google-play-api
 
 Turns [google-play-scraper](https://github.com/facundoolano/google-play-scraper/) into a RESTful API.
